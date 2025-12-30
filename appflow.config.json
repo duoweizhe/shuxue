@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "com.mathexplorer.app",
+      "appId": "dc47ab72",
       "root": ".",
       "type": "capacitor"
     }
