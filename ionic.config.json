@@ -1,0 +1,7 @@
+{
+  "name": "数学探险家",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

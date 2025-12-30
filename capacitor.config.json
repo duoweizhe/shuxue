@@ -1,0 +1,8 @@
+{
+  "appId": "com.mathexplorer.app",
+  "appName": "数学探险家",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
