@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "appId": "com.mathexplorer.app",
+      "root": ".",
+      "type": "capacitor"
+    }
+  ]
+}
